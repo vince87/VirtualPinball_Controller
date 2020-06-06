@@ -14,7 +14,7 @@ Pinout della scheda:
 
 # Lista componenti:
 
-1  10K              R1            0805
+1  10K              R1            0805<br>
 2	 330	            R2,R3	        0805
 2  22	              R5,R4	        0805
 4  1KΩ	            R7,R8,R9,R6	  0603_X4
