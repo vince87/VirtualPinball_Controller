@@ -5,7 +5,6 @@
 
 char fw_version[] = "0.1";
 
-#include <EEPROM.h>
 #include <Wire.h>
 #include <Joystick.h>
 #include <Keyboard.h>
